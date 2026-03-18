@@ -22,7 +22,7 @@
 ## 使用技術
 ・Java（Servlet/JSP）
 ・HTML / CSS / JavaScript
-・MySQL　　
+・MySQL　　　　
 
 ## 主な機能
 ・気分とコメントの登録機能
