@@ -11,6 +11,9 @@
 ### 投稿画面
 ![投稿](images/mood-form.png)
 
+### 投稿完了画面
+![投稿完了](images/mood-register.png)
+
 ### 一覧画面
 ![一覧](images/mood-list.png)
 
